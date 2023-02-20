@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     ConstraintLayout constraintLayout;
     TextView textView;
 
-// bransh master
+// bransh master tset1
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
